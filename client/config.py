@@ -80,3 +80,14 @@ def get(item='', default=None):
         _logger.warning("%s not specified in profile, defaulting to '%s'",
                         item, default)
         return default
+
+def getText():
+    if os.path.exists(dingdangpath.CONFIG_PATH):
+        with open(dingdangpath.config("profile.yml"), 'r') as f:
+            return f.read()
+    return ''
+
+
+def dump(configStr):
+    with open(dingdangpath.config("profile.yml"), 'w') as f:
+        f.write(configStr)

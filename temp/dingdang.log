@@ -1,296 +1,48 @@
-2019-04-14 13:23:09,673 mic.py[line:46] INFO: Initializing PyAudio. ALSA/Jack error messages that pop up during this process are normal and can usually be safely ignored.
-2019-04-14 13:23:09,758 mic.py[line:53] INFO: Initialization of PyAudio completed.
-2019-04-14 13:23:09,759 config.py[line:81] WARNING: sound_engine not specified in profile, defaulting to 'aplay'
-2019-04-14 13:23:10,008 base.py[line:132] INFO: Scheduler started
-2019-04-14 13:23:10,094 base.py[line:743] INFO: Added job "Notifier.gather" to job store "default"
-2019-04-14 13:23:10,314 config.py[line:81] WARNING: statistic not specified in profile, defaulting to 'True'
-2019-04-14 13:23:11,512 mic.py[line:353] INFO: 机器人说：英平，我能为您做什么?
-2019-04-14 13:23:11,516 tts.py[line:124] INFO: found speech in cache, playing...[/home/pi/dingdang/temp/baidu-tts30ea596e61dab1478eda63fae9c68b02.mp3]
-2019-04-14 13:23:11,526 config.py[line:81] WARNING: music_engine not specified in profile, defaulting to 'play'
-2019-04-14 13:23:15,464 conversation.py[line:59] INFO: Starting to handle conversation with keyword 'JARVIS'.
-2019-04-14 13:23:25,465 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:23:36,041 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:23:40,188 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:23:44,386 mic.py[line:377] INFO: 已上传数据库 万科A昨日成交482436.77手，成交额1504490.056千元，收盘价31.09，跌幅2.3555。
-2019-04-14 13:23:44,387 mic.py[line:353] INFO: 机器人说：万科A昨日成交482436.77手，成交额1504490.056千元，收盘价31.09，跌幅2.3555。
-2019-04-14 13:23:44,432 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:23:44,433 conversation.py[line:70] INFO: skip conversation for now.
-2019-04-14 13:23:45,435 conversation.py[line:70] INFO: skip conversation for now.
-2019-04-14 13:23:46,438 conversation.py[line:70] INFO: skip conversation for now.
-2019-04-14 13:23:47,441 conversation.py[line:70] INFO: skip conversation for now.
-2019-04-14 13:23:48,466 conversation.py[line:70] INFO: skip conversation for now.
-2019-04-14 13:23:49,469 conversation.py[line:70] INFO: skip conversation for now.
-2019-04-14 13:23:50,500 conversation.py[line:70] INFO: skip conversation for now.
-2019-04-14 13:23:51,770 conversation.py[line:70] INFO: skip conversation for now.
-2019-04-14 13:23:52,871 conversation.py[line:70] INFO: skip conversation for now.
-2019-04-14 13:23:53,945 conversation.py[line:70] INFO: skip conversation for now.
-2019-04-14 13:23:54,948 conversation.py[line:70] INFO: skip conversation for now.
-2019-04-14 13:23:55,951 conversation.py[line:70] INFO: skip conversation for now.
-2019-04-14 13:23:56,953 conversation.py[line:70] INFO: skip conversation for now.
-2019-04-14 13:23:57,960 conversation.py[line:70] INFO: skip conversation for now.
-2019-04-14 13:23:58,963 conversation.py[line:70] INFO: skip conversation for now.
-2019-04-14 13:23:59,965 conversation.py[line:70] INFO: skip conversation for now.
-2019-04-14 13:24:00,968 conversation.py[line:70] INFO: skip conversation for now.
-2019-04-14 13:24:01,971 conversation.py[line:70] INFO: skip conversation for now.
-2019-04-14 13:24:02,973 conversation.py[line:70] INFO: skip conversation for now.
-2019-04-14 13:24:03,975 conversation.py[line:70] INFO: skip conversation for now.
-2019-04-14 13:24:04,978 conversation.py[line:70] INFO: skip conversation for now.
-2019-04-14 13:24:05,980 conversation.py[line:70] INFO: skip conversation for now.
-2019-04-14 13:24:06,983 conversation.py[line:70] INFO: skip conversation for now.
-2019-04-14 13:24:07,985 conversation.py[line:70] INFO: skip conversation for now.
-2019-04-14 13:24:10,714 mic.py[line:353] INFO: 机器人说：大连天气：今天：晴，8到15摄氏度。明天：晴，8到17摄氏度。后天：晴，7到18摄氏度。今天天气不错，空气清新，适合出门运动哦
-2019-04-14 13:24:10,753 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:24:10,755 conversation.py[line:70] INFO: skip conversation for now.
-2019-04-14 13:24:11,759 conversation.py[line:70] INFO: skip conversation for now.
-2019-04-14 13:24:12,880 conversation.py[line:70] INFO: skip conversation for now.
-2019-04-14 13:24:14,088 conversation.py[line:70] INFO: skip conversation for now.
-2019-04-14 13:24:15,174 conversation.py[line:70] INFO: skip conversation for now.
-2019-04-14 13:24:16,177 conversation.py[line:70] INFO: skip conversation for now.
-2019-04-14 13:24:17,993 conversation.py[line:70] INFO: skip conversation for now.
-2019-04-14 13:24:18,996 conversation.py[line:70] INFO: skip conversation for now.
-2019-04-14 13:24:19,999 conversation.py[line:70] INFO: skip conversation for now.
-2019-04-14 13:24:21,001 conversation.py[line:70] INFO: skip conversation for now.
-2019-04-14 13:24:22,004 conversation.py[line:70] INFO: skip conversation for now.
-2019-04-14 13:24:23,005 conversation.py[line:70] INFO: skip conversation for now.
-2019-04-14 13:24:24,008 conversation.py[line:70] INFO: skip conversation for now.
-2019-04-14 13:24:25,010 conversation.py[line:70] INFO: skip conversation for now.
-2019-04-14 13:24:26,013 conversation.py[line:70] INFO: skip conversation for now.
-2019-04-14 13:24:27,016 conversation.py[line:70] INFO: skip conversation for now.
-2019-04-14 13:24:28,018 conversation.py[line:70] INFO: skip conversation for now.
-2019-04-14 13:24:29,021 conversation.py[line:70] INFO: skip conversation for now.
-2019-04-14 13:24:30,023 conversation.py[line:70] INFO: skip conversation for now.
-2019-04-14 13:24:31,026 conversation.py[line:70] INFO: skip conversation for now.
-2019-04-14 13:24:32,028 conversation.py[line:70] INFO: skip conversation for now.
-2019-04-14 13:24:33,034 conversation.py[line:70] INFO: skip conversation for now.
-2019-04-14 13:24:33,963 tts.py[line:133] INFO: not found speech in cache, caching...[/home/pi/dingdang/temp/baidu-tts27de5cc51c10bc365d4625b96f3b2f88.mp3]
-2019-04-14 13:24:34,036 conversation.py[line:70] INFO: skip conversation for now.
-2019-04-14 13:24:45,614 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:24:56,190 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:25:05,561 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:25:10,175 base.py[line:106] INFO: Running job "Notifier.gather (trigger: interval[0:02:00], next run at: 2019-04-14 13:27:10 CST)" (scheduled at 2019-04-14 13:25:10.091242+08:00)
-2019-04-14 13:25:10,176 base.py[line:117] INFO: Job "Notifier.gather (trigger: interval[0:02:00], next run at: 2019-04-14 13:27:10 CST)" executed successfully
-2019-04-14 13:25:16,661 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:25:18,729 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:25:29,304 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:25:40,148 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:25:43,374 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:25:54,537 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:25:57,120 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:26:07,695 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:26:18,272 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:26:28,847 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:26:39,422 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:26:49,998 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:27:00,573 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:27:03,671 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:27:10,097 base.py[line:106] INFO: Running job "Notifier.gather (trigger: interval[0:02:00], next run at: 2019-04-14 13:27:10 CST)" (scheduled at 2019-04-14 13:27:10.091242+08:00)
-2019-04-14 13:27:10,099 base.py[line:117] INFO: Job "Notifier.gather (trigger: interval[0:02:00], next run at: 2019-04-14 13:29:10 CST)" executed successfully
-2019-04-14 13:27:14,248 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:27:24,822 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:27:26,825 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:27:32,161 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:27:34,679 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:27:36,746 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:27:40,739 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:27:42,806 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:27:44,937 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:27:48,291 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:27:50,936 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:27:53,194 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:28:03,771 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:28:06,159 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:28:08,160 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:28:10,484 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:28:12,487 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:28:14,555 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:28:24,373 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:28:26,568 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:28:37,144 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:28:46,451 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:28:49,484 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:28:53,610 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:28:56,257 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:29:05,884 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:29:08,272 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:29:10,099 base.py[line:106] INFO: Running job "Notifier.gather (trigger: interval[0:02:00], next run at: 2019-04-14 13:29:10 CST)" (scheduled at 2019-04-14 13:29:10.091242+08:00)
-2019-04-14 13:29:10,103 base.py[line:117] INFO: Job "Notifier.gather (trigger: interval[0:02:00], next run at: 2019-04-14 13:31:10 CST)" executed successfully
-2019-04-14 13:29:18,848 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:29:29,423 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:29:36,233 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:29:38,236 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:29:40,561 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:29:42,563 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:29:47,003 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:29:52,789 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:29:55,500 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:30:00,454 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:30:07,417 stt.py[line:586] INFO: snowboy 识别到了: 'JARVIS'
-2019-04-14 13:30:07,419 conversation.py[line:84] INFO: Keyword 'JARVIS' has been said!
-2019-04-14 13:30:07,633 config.py[line:81] WARNING: statistic not specified in profile, defaulting to 'True'
-2019-04-14 13:30:13,401 stt.py[line:321] INFO: 百度语音识别到了: 行，我太穷。
-2019-04-14 13:30:14,829 mic.py[line:353] INFO: 机器人说：发送成功！
-2019-04-14 13:30:16,078 tts.py[line:124] INFO: found speech in cache, playing...[/home/pi/dingdang/temp/baidu-tts45beca8ffa34da765c49a4c14ad3838c.mp3]
-2019-04-14 13:30:24,796 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:30:26,937 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:30:30,128 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:30:33,002 stt.py[line:586] INFO: snowboy 识别到了: 'JARVIS'
-2019-04-14 13:30:33,003 conversation.py[line:84] INFO: Keyword 'JARVIS' has been said!
-2019-04-14 13:30:33,217 config.py[line:81] WARNING: statistic not specified in profile, defaulting to 'True'
-2019-04-14 13:30:37,470 stt.py[line:321] INFO: 百度语音识别到了: 
-2019-04-14 13:30:37,472 config.py[line:81] WARNING: shut_up_if_no_input not specified in profile, defaulting to 'False'
-2019-04-14 13:30:37,474 mic.py[line:353] INFO: 机器人说：什么?
-2019-04-14 13:30:44,722 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:30:47,616 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:30:58,191 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:31:08,765 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:31:10,098 base.py[line:106] INFO: Running job "Notifier.gather (trigger: interval[0:02:00], next run at: 2019-04-14 13:31:10 CST)" (scheduled at 2019-04-14 13:31:10.091242+08:00)
-2019-04-14 13:31:10,100 base.py[line:117] INFO: Job "Notifier.gather (trigger: interval[0:02:00], next run at: 2019-04-14 13:33:10 CST)" executed successfully
-2019-04-14 13:31:19,341 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:31:25,189 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:31:33,279 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:31:35,860 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:31:40,364 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:31:42,881 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:31:46,873 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:31:57,650 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:32:08,226 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:32:15,868 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:32:26,443 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:32:37,016 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:32:47,592 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:32:52,160 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:32:57,179 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:33:07,753 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:33:10,098 base.py[line:106] INFO: Running job "Notifier.gather (trigger: interval[0:02:00], next run at: 2019-04-14 13:33:10 CST)" (scheduled at 2019-04-14 13:33:10.091242+08:00)
-2019-04-14 13:33:10,099 base.py[line:117] INFO: Job "Notifier.gather (trigger: interval[0:02:00], next run at: 2019-04-14 13:33:10 CST)" executed successfully
-2019-04-14 13:33:17,507 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:33:19,574 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:33:26,132 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:33:36,707 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:33:47,282 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:33:57,857 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:34:03,001 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:34:07,762 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:34:10,792 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:34:21,368 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:34:32,336 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:34:34,402 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:34:39,355 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:34:49,930 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:35:00,068 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:35:10,099 base.py[line:106] INFO: Running job "Notifier.gather (trigger: interval[0:02:00], next run at: 2019-04-14 13:35:10 CST)" (scheduled at 2019-04-14 13:35:10.091242+08:00)
-2019-04-14 13:35:10,101 base.py[line:117] INFO: Job "Notifier.gather (trigger: interval[0:02:00], next run at: 2019-04-14 13:37:10 CST)" executed successfully
-2019-04-14 13:35:10,396 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:35:20,790 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:35:31,364 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:35:33,495 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:35:35,560 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:35:46,135 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:35:56,708 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:36:07,283 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:36:13,196 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:36:15,198 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:36:25,208 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:36:27,210 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:36:31,395 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:36:33,396 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:36:40,589 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:36:42,591 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:36:44,593 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:36:50,570 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:36:52,958 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:36:55,861 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:36:58,250 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:37:02,627 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:37:06,299 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:37:10,097 base.py[line:106] INFO: Running job "Notifier.gather (trigger: interval[0:02:00], next run at: 2019-04-14 13:37:10 CST)" (scheduled at 2019-04-14 13:37:10.091242+08:00)
-2019-04-14 13:37:10,099 base.py[line:117] INFO: Job "Notifier.gather (trigger: interval[0:02:00], next run at: 2019-04-14 13:39:10 CST)" executed successfully
-2019-04-14 13:37:12,659 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:37:14,853 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:37:18,461 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:37:20,528 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:37:26,954 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:37:37,531 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:37:48,117 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:37:58,691 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:38:09,264 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:38:19,838 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:38:27,170 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:38:32,570 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:38:35,472 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:38:46,047 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:38:56,623 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:39:07,198 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:39:10,099 base.py[line:106] INFO: Running job "Notifier.gather (trigger: interval[0:02:00], next run at: 2019-04-14 13:41:10 CST)" (scheduled at 2019-04-14 13:39:10.091242+08:00)
-2019-04-14 13:39:10,101 base.py[line:117] INFO: Job "Notifier.gather (trigger: interval[0:02:00], next run at: 2019-04-14 13:41:10 CST)" executed successfully
-2019-04-14 13:39:17,772 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:39:23,301 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:39:31,261 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:39:34,357 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:39:44,929 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:39:55,707 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:40:06,282 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:40:16,855 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:40:27,429 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:40:38,003 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:40:48,578 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:40:51,353 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:40:55,986 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:41:06,561 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:41:10,096 base.py[line:106] INFO: Running job "Notifier.gather (trigger: interval[0:02:00], next run at: 2019-04-14 13:41:10 CST)" (scheduled at 2019-04-14 13:41:10.091242+08:00)
-2019-04-14 13:41:10,098 base.py[line:117] INFO: Job "Notifier.gather (trigger: interval[0:02:00], next run at: 2019-04-14 13:43:10 CST)" executed successfully
-2019-04-14 13:41:16,569 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:41:27,143 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:41:37,716 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:41:48,291 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:41:52,284 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:42:01,463 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:42:06,351 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:42:12,776 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:42:16,001 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:42:22,106 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:42:32,680 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:42:39,169 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:42:49,743 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:42:55,720 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:43:05,731 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:43:08,633 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:43:10,097 base.py[line:106] INFO: Running job "Notifier.gather (trigger: interval[0:02:00], next run at: 2019-04-14 13:43:10 CST)" (scheduled at 2019-04-14 13:43:10.091242+08:00)
-2019-04-14 13:43:10,099 base.py[line:117] INFO: Job "Notifier.gather (trigger: interval[0:02:00], next run at: 2019-04-14 13:43:10 CST)" executed successfully
-2019-04-14 13:43:19,205 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:43:29,779 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:43:40,354 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:43:50,928 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:44:01,502 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:44:07,989 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:44:10,120 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:44:18,016 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:44:23,737 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:44:25,868 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:44:29,414 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:44:32,317 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:44:34,320 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:44:37,671 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:44:48,244 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:44:58,817 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:45:09,393 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:45:10,099 base.py[line:106] INFO: Running job "Notifier.gather (trigger: interval[0:02:00], next run at: 2019-04-14 13:47:10 CST)" (scheduled at 2019-04-14 13:45:10.091242+08:00)
-2019-04-14 13:45:10,100 base.py[line:117] INFO: Job "Notifier.gather (trigger: interval[0:02:00], next run at: 2019-04-14 13:47:10 CST)" executed successfully
-2019-04-14 13:45:19,965 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:45:30,539 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:45:41,112 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:45:51,685 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:46:02,258 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:46:12,833 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:46:16,506 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:46:27,079 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:46:36,256 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:46:40,632 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:46:46,480 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:46:57,053 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:46:59,698 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:47:10,094 base.py[line:106] INFO: Running job "Notifier.gather (trigger: interval[0:02:00], next run at: 2019-04-14 13:49:10 CST)" (scheduled at 2019-04-14 13:47:10.091242+08:00)
-2019-04-14 13:47:10,096 base.py[line:117] INFO: Job "Notifier.gather (trigger: interval[0:02:00], next run at: 2019-04-14 13:49:10 CST)" executed successfully
-2019-04-14 13:47:10,796 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-2019-04-14 13:47:17,797 conversation.py[line:82] INFO: Nothing has been said or transcribed.
-                                                                                                                                                                                          
+2019-05-02 13:08:34,130 mic.py[line:46] INFO: Initializing PyAudio. ALSA/Jack error messages that pop up during this process are normal and can usually be safely ignored.
+2019-05-02 13:08:34,247 mic.py[line:53] INFO: Initialization of PyAudio completed.
+2019-05-02 13:08:34,248 config.py[line:81] WARNING: sound_engine not specified in profile, defaulting to 'aplay'
+2019-05-02 13:08:34,702 base.py[line:132] INFO: Scheduler started
+2019-05-02 13:08:34,808 base.py[line:743] INFO: Added job "Notifier.gather" to job store "default"
+2019-05-02 13:08:35,010 config.py[line:81] WARNING: statistic not specified in profile, defaulting to 'True'
+2019-05-02 13:08:35,255 mic.py[line:354] INFO: 机器人说：英平，我能为您做什么?
+2019-05-02 13:08:35,257 tts.py[line:124] INFO: found speech in cache, playing...[/home/pi/dingdang/temp/baidu-tts30ea596e61dab1478eda63fae9c68b02.mp3]
+2019-05-02 13:08:35,258 config.py[line:81] WARNING: music_engine not specified in profile, defaulting to 'play'
+2019-05-02 13:08:39,415 conversation.py[line:59] INFO: Starting to handle conversation with keyword 'JARVIS'.
+2019-05-02 13:08:50,076 conversation.py[line:82] INFO: Nothing has been said or transcribed.
+2019-05-02 13:08:52,939 conversation.py[line:82] INFO: Nothing has been said or transcribed.
+2019-05-02 13:08:56,962 conversation.py[line:82] INFO: Nothing has been said or transcribed.
+2019-05-02 13:09:00,681 web.py[line:1825] INFO: 200 GET /config (127.0.0.1) 231.19ms
+2019-05-02 13:09:01,148 web.py[line:1825] INFO: 200 GET /static/spin.css?v=a15ea4b513ce77ca1fb8d1e88e56b4be (127.0.0.1) 145.24ms
+2019-05-02 13:09:01,174 web.py[line:1825] INFO: 200 GET /static/mfb.min.css (127.0.0.1) 18.73ms
+2019-05-02 13:09:01,211 web.py[line:1825] INFO: 200 GET /static/popper.min.js (127.0.0.1) 34.03ms
+2019-05-02 13:09:01,248 web.py[line:1825] INFO: 200 GET /static/jquery-3.3.1.min.js (127.0.0.1) 33.87ms
+2019-05-02 13:09:01,285 conversation.py[line:82] INFO: Nothing has been said or transcribed.
+2019-05-02 13:09:01,299 web.py[line:1825] INFO: 200 GET /static/starter-template.css?v=329448fe1843fe041b34eb82ebf4f973 (127.0.0.1) 41.23ms
+2019-05-02 13:09:01,314 web.py[line:1825] INFO: 200 GET /static/main.js?v=95f87a878f8156a9e26987eab1c3f9ef (127.0.0.1) 10.70ms
+2019-05-02 13:09:01,341 web.py[line:1825] INFO: 200 GET /static/config.js?v=0d18b9f32ace24ba67208015a3657baa (127.0.0.1) 13.14ms
+2019-05-02 13:09:01,362 web.py[line:1825] INFO: 200 GET /static/mfb.min.js (127.0.0.1) 10.78ms
+2019-05-02 13:09:01,391 web.py[line:1825] INFO: 200 GET /static/modernizr.touch.js (127.0.0.1) 17.84ms
+2019-05-02 13:09:03,836 config.py[line:81] WARNING: sensitivity not specified in profile, defaulting to '0.5'
+2019-05-02 13:09:03,839 web.py[line:1825] INFO: 200 GET /getconfig?validate= (127.0.0.1) 23.97ms
+2019-05-02 13:09:04,651 conversation.py[line:82] INFO: Nothing has been said or transcribed.
+2019-05-02 13:09:06,656 conversation.py[line:82] INFO: Nothing has been said or transcribed.
+2019-05-02 13:09:10,024 conversation.py[line:82] INFO: Nothing has been said or transcribed.
+2019-05-02 13:09:18,698 conversation.py[line:82] INFO: Nothing has been said or transcribed.
+2019-05-02 13:09:22,687 conversation.py[line:82] INFO: Nothing has been said or transcribed.
+2019-05-02 13:09:24,754 conversation.py[line:82] INFO: Nothing has been said or transcribed.
+2019-05-02 13:09:26,761 conversation.py[line:82] INFO: Nothing has been said or transcribed.
+2019-05-02 13:09:29,996 web.py[line:1825] INFO: 200 POST /config (127.0.0.1) 320.35ms
+2019-05-02 13:09:37,343 conversation.py[line:82] INFO: Nothing has been said or transcribed.
+2019-05-02 13:09:42,038 conversation.py[line:82] INFO: Nothing has been said or transcribed.
+2019-05-02 13:09:44,234 conversation.py[line:82] INFO: Nothing has been said or transcribed.
+2019-05-02 13:09:51,364 conversation.py[line:82] INFO: Nothing has been said or transcribed.
+2019-05-02 13:09:59,453 conversation.py[line:82] INFO: Nothing has been said or transcribed.
+2019-05-02 13:10:01,780 conversation.py[line:82] INFO: Nothing has been said or transcribed.
+2019-05-02 13:10:06,858 conversation.py[line:82] INFO: Nothing has been said or transcribed.
+2019-05-02 13:10:16,802 conversation.py[line:82] INFO: Nothing has been said or transcribed.
+2019-05-02 13:10:22,845 conversation.py[line:82] INFO: Nothing has been said or transcribed.
+2019-05-02 13:10:33,421 conversation.py[line:82] INFO: Nothing has been said or transcribed.
+2019-05-02 13:10:34,812 base.py[line:106] INFO: Running job "Notifier.gather (trigger: interval[0:02:00], next run at: 2019-05-02 13:10:34 CST)" (scheduled at 2019-05-02 13:10:34.805755+08:00)
+2019-05-02 13:10:34,814 base.py[line:117] INFO: Job "Notifier.gather (trigger: interval[0:02:00], next run at: 2019-05-02 13:12:34 CST)" executed successfully
+2019-05-02 13:10:43,996 conversation.py[line:82] INFO: Nothing has been said or transcribed.
+2019-05-02 13:10:46,128 conversation.py[line:82] INFO: Nothing has been said or transcribed.
